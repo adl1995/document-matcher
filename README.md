@@ -45,7 +45,7 @@ Let's iterate through the steps involved in determining wether the following two
   <img src="output/document1.png/7-matched-logo.jpg" width="250">
 </p>
 
-If NMSE is less than a certain threshold (arbitrary), the documents match. For the logos extracted above, the NMSE is `0.351`. Being a very small values, it gives us a high probability that the logos do indeed match.
+If NMSE is less than a certain threshold (arbitrary value), the documents match. For the logos extracted above, the NMSE is `0.351`. Being a very small value, it gives us a high probability that the logos do indeed match.
 
 # Setup
 
